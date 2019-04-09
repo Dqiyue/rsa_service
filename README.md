@@ -5,7 +5,7 @@ a rsa service class imp
 #apt install openssl libssl-dev
 
 # example
-```
+```c++
 #include "../rsa_service.h"
 
 int main() {
